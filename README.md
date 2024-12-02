@@ -1,2 +1,2 @@
 # Databases
-Databases course @ Instituto Superior Técnico 2023/24
+course @ Instituto Superior Técnico 2023/24
